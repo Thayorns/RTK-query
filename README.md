@@ -21,11 +21,4 @@ React application receives data from jsonplaceholder API with loading of the nex
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat&logo=ant-design&logoColor=white)
 
 ### 🏗️ Architecture
-![FSD Methodology](https://img.shields.io/badge/-FSD_Methodology-2496ED?style=flat&logo=arc&logoColor=white) 🏗️
-
-## 🤝 Contributing
-
-Pull requests are welcome!
-
-1. 🐛 Open an issue
-2. 💻 Or submit a PR
+![FSD Methodology](https://img.shields.io/badge/-FSD_Methodology-2496ED?style=flat&logo=arc&logoColor=white)
