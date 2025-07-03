@@ -6,6 +6,8 @@
 
 React application receives data from jsonplaceholder API with loading of the next batch of data on click. Routing with router dom 6 is implemented.
 
+[RTK Query](https://rtkquery-fsd-rrd6.netlify.app/) 
+
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
